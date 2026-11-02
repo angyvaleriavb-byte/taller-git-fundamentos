@@ -2,4 +2,5 @@
 
  ## Que aprendi
  -un commit es una foto del proyecto
- 
+
+ Editado desde GitHub
